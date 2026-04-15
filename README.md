@@ -57,9 +57,6 @@ I'm passionate about building modern web applications, exploring Artificial Inte
 
 ## GitHub Stats
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaldevsahu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaldevsahu&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kunaldevsahu&theme=tokyonight)
 
