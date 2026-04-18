@@ -1,4 +1,4 @@
-# Hi there, I'm Kunal Sahu
+# Hi there, I'm Kunal 
 
 ### Developer | AI Enthusiast | Open Source Enthusiast | Problem Solver
 
