@@ -37,7 +37,7 @@
 
 Full stack Developer building scalable applications, backend systems, and AI-powered products. I contribute to open-source cloud-native projects and care about how production systems are actually designed, deployed, and maintained.
 
-**Interests:** Full Stack Engineering • Kubernetes & Cloud Native • Open Source • AI Applications • System Design • Developer Tooling
+**Interests:** Full Stack Developer • Kubernetes & Cloud Native • Open Source • AI Applications • System Design • Developer Tooling
 
 ---
 
