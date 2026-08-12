@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Open+Source+Contributor;Cloud+Native+Enthusiast;Backend+Engineering;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+Native+Enthusiast;Backend+Engineering;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+AI"/>
 
 <br>
 
@@ -37,7 +37,7 @@
 
 Full stack Developer building scalable applications, backend systems, and AI-powered products. I contribute to open-source cloud-native projects and care about how production systems are actually designed, deployed, and maintained.
 
-**Interests:** Full Stack Developer • Kubernetes & Cloud Native • Open Source • AI Applications • System Design • Developer Tooling
+**Interests:** Full Stack Development • Kubernetes & Cloud Native • Open Source • AI Applications • System Design • Developer Tooling
 
 ---
 
