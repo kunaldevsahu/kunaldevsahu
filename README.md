@@ -4,7 +4,7 @@
 
 # Hi, I'm Kunal Sahu 👋
 
-### Full Stack Engineer building scalable apps, backend systems & AI tools
+### Full Stack Developer building scalable apps, backend systems & AI tools
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-Full stack engineer building scalable applications, backend systems, and AI-powered products. I contribute to open-source cloud-native projects and care about how production systems are actually designed, deployed, and maintained.
+Full stack Developer building scalable applications, backend systems, and AI-powered products. I contribute to open-source cloud-native projects and care about how production systems are actually designed, deployed, and maintained.
 
 **Interests:** Full Stack Engineering • Kubernetes & Cloud Native • Open Source • AI Applications • System Design • Developer Tooling
 
